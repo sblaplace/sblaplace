@@ -1,12 +1,8 @@
 ### Hello
 
-My name is Sarah Laplace.
+My name is Sarah.
 
-- I’m currently working on something that's a secret, but won't be anymore soon
-- I'm learning Coq
-- I’m reading Wilf's generatingfunctionology 
-- How to reach me: sblaplace@gmail.com
-- Pronouns: it/its or she/her
+Pronouns: it/its or she/her
 
 <!--
 **sblaplace/sblaplace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
