@@ -2,8 +2,6 @@
 
 My name is Sarah.
 
-Pronouns: it/its or she/her
-
 <!--
 **sblaplace/sblaplace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
